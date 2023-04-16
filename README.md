@@ -9,5 +9,4 @@ conda activate venv/
 ### Install all necessary libraries
 ```
 pip install -r requirements.txt
-```# Diamond_Price_Prediction
-# Diamond_Price_Prediction
+```
